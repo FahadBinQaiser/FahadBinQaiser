@@ -12,9 +12,8 @@ Experience
 
 - I have a total of 1.5 years experience. I started my journey on 21 May 2023, and it's almost 1.5 years now.
 
-Tech Stack
-
-- I have expertise in these languages and libraries.
+Tech Stack<br>
+I have expertise in these languages and libraries.
 
 - Html.
 - React.js.
