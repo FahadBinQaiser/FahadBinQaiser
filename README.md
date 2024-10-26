@@ -2,7 +2,7 @@ Are you looking for a person who can make stunning websites according to your de
 Well, You found the right person.
 
 Hi, I'm Fahad Bin Qaiser.<br>
-A teenager with a passion for web development.
+I provide interactive web solutions for businesses. 
 
 Experience
 
