@@ -16,6 +16,7 @@ I have expertise in these languages and libraries.
 - JavaScript. 
 - Vanilla CSS.
 - Tailwind CSS.
+- Version Control.
 
 I also learning backend web development to be a Full Stack developer.
 
