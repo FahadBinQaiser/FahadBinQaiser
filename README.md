@@ -1,16 +1,12 @@
-Are you looking for a person that can make stunning websites according to your demand?<br>
-Well, You founded the right person.
+Are you looking for a person who can make stunning websites according to your demand?<br>
+Well, You found the right person.
 
 Hi, I'm Fahad Bin Qaiser.<br>
 A teenager with a passion for web development.
 
-About me:
-
-- I'm a teenager web developer with a passion for web development. My journey was difficult for me from the start because I'm a self-taught web developer.
-
 Experience
 
-- I have a total of 1.5 years experience. I started my journey on 21 May 2023, and it's almost 1.5 years now.
+- I have a total of 1.5 years of experience. I covered the following tech stack.
 
 Tech Stack<br>
 I have expertise in these languages and libraries.
