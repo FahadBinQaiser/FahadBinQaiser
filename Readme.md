@@ -1,69 +1,58 @@
 # Fahad Bin Qaiser — Frontend Developer
 
-🚀 Self-Taught Developer | React & Tailwind Expert | Co-founder at a Design-to-Code Agency
+🚀 React & Tailwind CSS Specialist | UI-Focused | Clean Code Advocate
 
 ---
 
-Hi there! I'm Fahad — a frontend developer who turns designs into fast, responsive, and high-converting websites.
+I'm Fahad, a frontend developer focused on building modern, responsive, and performance-driven web interfaces.
 
-I dropped out of college at 17 to pursue real-world learning. Since then, I've been helping entrepreneurs, creators, and brands build their online presence through modern development and seamless UI/UX.
+I specialize in crafting fast, accessible websites using technologies like React, Tailwind CSS, and GSAP. My work is rooted in clean architecture, modular component design, and a strong understanding of user-centric interfaces.
 
-Together with my brother [Faizan Bin Qaiser](https://www.linkedin.com/in/faizanbinqaiser/), a content and visual designer, I’ve launched a micro-agency where we handle **design + development** — crafting scroll-stopping visuals that _actually convert_.
-
----
-
-## 💼 What I Do
-
-- 🚀 Build conversion-focused landing pages in React & Tailwind CSS
-- 🎯 Create sleek portfolio websites for creators and professionals
-- 🔧 Refactor and optimize existing frontend codebases
-- 🧩 Turn Figma designs into fully responsive web experiences
-- ⚡ Integrate modern animations (GSAP) and smooth UI flows
+I collaborate closely with visual designers to bring concepts to life — translating Figma or brand guidelines into functional, scalable web components.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Services & Expertise
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Frontend Development** — React, Next.js, JavaScript, Tailwind CSS
+- **UI Implementation** — Responsive layouts, accessibility, micro-interactions
+- **Design to Code** — Figma to pixel-perfect React builds
+- **Optimization** — Performance tuning, semantic HTML, clean architecture
+- **Version Control** — Git, GitHub best practices, team collaboration
 
 ---
 
-## 🔥 Our Agency Vision
+## 🧰 Tech Stack
 
-We’re two brothers building from scratch — combining **design strategy** and **frontend execution** to deliver web experiences that **sell, engage, and impress**.
-
-Currently focused on:
-
-- Working 1:1 with startup founders and solo creators
-- Delivering full-service website builds (design + code)
-- Building trust through quality work and a great client experience
-
-> We don’t just ship websites — we build your **digital first impression**.
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🧠 2025 Goals
+## 📌 Recent Work
 
-- 💡 Integrate more AI tools into daily design + dev workflow
-- 🎨 Launch our full agency website and visual identity
-- 🧱 Build 10+ high-impact sites that bring results
-- 📚 Continue mastering frontend performance and design systems
+> Selected projects demonstrating UI precision, responsiveness, and performance optimization.
 
----
+- **Portfolio Sites** — Sleek personal brands built in React with GSAP animations
+- **Landing Pages** — Conversion-optimized builds for creators and startups
+- **Figma to React Builds** — UI fidelity and performance-first implementation
+- **Rails + Tailwind** — Admin interfaces and CMS-style components
 
-## 📬 Let's Connect
-
-- 🧠 LinkedIn: [fahadbinqaiser](https://www.linkedin.com/in/fahadbinqaiser/)
-- 💼 Open to: freelance gigs, collaborations, and cool projects
-- 🌐 Portfolio: Coming soon (React + GSAP powered!)
-- 📨 DM-friendly for all good energy and solid ideas
+(Private client work under NDA. Public case studies coming soon.)
 
 ---
 
-> Thanks for scrolling! If you’ve got a vision — I’ll help you bring it to the screen.
+## 📬 Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/fahadbinqaiser](https://www.linkedin.com/in/fahadbinqaiser/)
+- **Availability:** Open for freelance/contract frontend roles
+- **Focus:** Clean UI, responsive layouts, scalable component structure
+
+---
+
+> Code that looks good, feels smooth, and works everywhere.
