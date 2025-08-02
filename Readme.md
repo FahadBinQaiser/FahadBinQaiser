@@ -1,5 +1,4 @@
 # Fahad Bin Qaiser - Frontend Developer
-
 ### Next.JS && React && Tailwind CSS | UI-Expert | Co-Founder of Magneto
 
 ---
