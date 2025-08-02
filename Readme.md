@@ -1,15 +1,21 @@
-# Fahad Bin Qaiser — Frontend Developer
+# Fahad Bin Qaiser
 
-🚀 React & Tailwind CSS Specialist | UI-Focused | Clean Code Advocate
+## Frontend Developer
+
+React & Tailwind CSS | UI-Expert | Co-Founder of Magneto
 
 ---
 
 I'm Fahad, a frontend developer from the past 2 years.
 I started my coding journey on 21 May, 2023.
 
-I specialize in crafting fast, accessible websites using technologies like React, Tailwind CSS, and GSAP. My work is rooted in clean architecture, modular component design, and a strong understanding of user-centric interfaces.
+I help businesses and personal brands by building responsive websites and landing pages.
+My work is deep down CODE.
 
-I collaborate closely with visual designers to bring concepts to life — translating Figma or brand guidelines into functional, scalable web components.
+I also have a strong eye for design.
+
+I know design well.
+I can take your Figma design and turn it into a real website.
 
 ---
 
@@ -19,16 +25,16 @@ I collaborate closely with visual designers to bring concepts to life — transl
   React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
 
 - **UI Implementation**
-  Responsive layouts, accessibility, micro-interactions
+  Responsive layouts, Accessibility.
 
 - **Design to Code**
-  Figma to pixel-perfect React builds
+  Figma to Code.
 
 - **Optimization**
-  Performance tuning, semantic HTML, clean architecture
+  Performance, semantic HTML, clean folder structure
 
 - **Version Control**
-  Git, GitHub best practices, team collaboration
+  Git and GitHub
 
 ---
 
