@@ -16,19 +16,19 @@ I collaborate closely with visual designers to bring concepts to life — transl
 ## How can I help
 
 - **Frontend Development**
-- React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
+  React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
 
 - **UI Implementation**
-- Responsive layouts, accessibility, micro-interactions
+  Responsive layouts, accessibility, micro-interactions
 
 - **Design to Code**
-- Figma to pixel-perfect React builds
+  Figma to pixel-perfect React builds
 
 - **Optimization**
-- Performance tuning, semantic HTML, clean architecture
+  Performance tuning, semantic HTML, clean architecture
 
 - **Version Control**
-- Git, GitHub best practices, team collaboration
+  Git, GitHub best practices, team collaboration
 
 ---
 
