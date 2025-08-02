@@ -6,15 +6,16 @@ React & Tailwind CSS | UI-Expert | Co-Founder of Magneto
 
 ---
 
-I'm Fahad, a frontend developer from the past 2 years.
+I'm Fahad, a frontend developer from the past 2 years.  
 I started my coding journey on 21 May, 2023.
 
-I help businesses and personal brands by building responsive websites and landing pages.
-My work is deep down CODE.
+I help businesses and personal brands by building  
+responsive websites and landing pages.
 
+My work is deep down CODE.  
 I also have a strong eye for design.
 
-I know design well.
+I know design well.  
 I can take your Figma design and turn it into a real website.
 
 ---
