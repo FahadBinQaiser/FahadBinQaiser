@@ -4,7 +4,8 @@
 
 ---
 
-I'm Fahad, a frontend developer focused on building modern, responsive, and performance-driven web interfaces.
+I'm Fahad, a frontend developer from the past 2 years.
+I started my coding journey on 21 May, 2023.
 
 I specialize in crafting fast, accessible websites using technologies like React, Tailwind CSS, and GSAP. My work is rooted in clean architecture, modular component design, and a strong understanding of user-centric interfaces.
 
@@ -12,13 +13,22 @@ I collaborate closely with visual designers to bring concepts to life — transl
 
 ---
 
-## 💼 Services & Expertise
+## How can I help
 
-- **Frontend Development** — React, Next.js, JavaScript, Tailwind CSS
-- **UI Implementation** — Responsive layouts, accessibility, micro-interactions
-- **Design to Code** — Figma to pixel-perfect React builds
-- **Optimization** — Performance tuning, semantic HTML, clean architecture
-- **Version Control** — Git, GitHub best practices, team collaboration
+- **Frontend Development**
+- React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
+
+- **UI Implementation**
+- Responsive layouts, accessibility, micro-interactions
+
+- **Design to Code**
+- Figma to pixel-perfect React builds
+
+- **Optimization**
+- Performance tuning, semantic HTML, clean architecture
+
+- **Version Control**
+- Git, GitHub best practices, team collaboration
 
 ---
 
