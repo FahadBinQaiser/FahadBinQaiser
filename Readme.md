@@ -20,19 +20,19 @@ I can take your Figma design and turn it into a real website.
 
 ## How can I help
 
-- **Frontend Development**
+- **Frontend Development**  
   React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
 
-- **UI Implementation**
+- **UI Implementation**  
   Responsive layouts, Accessibility.
 
-- **Design to Code**
+- **Design to Code**  
   Figma to Code.
 
-- **Optimization**
+- **Optimization**  
   Performance, semantic HTML, clean folder structure
 
-- **Version Control**
+- **Version Control**  
   Git and GitHub
 
 ---
@@ -53,7 +53,7 @@ I can take your Figma design and turn it into a real website.
 
 ---
 
-## 🤝 Let's work together :)
+## Let's work together :)
 
 - **LinkedIn:** [linkedin.com/in/fahadbinqaiser](https://www.linkedin.com/in/fahadbinqaiser/)
 - **Instagram:** [instagram.com/fahad_devx](https://www.instagram.com/fahad_devx/)
