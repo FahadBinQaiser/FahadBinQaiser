@@ -55,7 +55,7 @@ I can take your Figma design and turn it into a real website.
 
 ## Let's work together :)
 
-- **LinkedIn:** [linkedin.com/in/fahadbinqaiser](https://www.linkedin.com/in/fahadbinqaiser/)
-- **Instagram:** [instagram.com/fahad_devx](https://www.instagram.com/fahad_devx/)
+- **LinkedIn:** [Fahad Bin Qaiser](https://www.linkedin.com/in/fahaddev/)
+- **Instagram:** [FahadDevX](https://www.instagram.com/fahad_devx/)
 
 ---
