@@ -1,13 +1,13 @@
-## Fahad Bin Qaiser - Frontend Developer  
-Next.JS && React && Tailwind CSS | UI-Expert | Co-Founder of Magneto
+## Fahad Bin Qaiser - Frontend and Full-stack Developer  
+Ruby on Rails && React.JS && Tailwind CSS | UI-Expert | Co-Founder of Magneto
 
 ---
 
 I'm Fahad, a frontend developer for the past 2 years.  
 I began my coding journey on 21 May 2023.
 
-I help businesses and personal brands by building  
-responsive websites and landing pages.
+I build Landing pages that help Saas teams convert in 5 seconds.
+Design, development, and copy done for you to bring leads.
 
 My work is deep down in CODE.  
 I also have a strong eye for design.
@@ -21,6 +21,9 @@ I can take your Figma design and turn it into a real website.
 
 - **Frontend Development**  
   React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
+
+- **Fullstack Development**
+  Ruby on Rails 
 
 - **UI Implementation**  
   Responsive layouts, Accessibility.
@@ -42,7 +45,6 @@ I can take your Figma design and turn it into a real website.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
@@ -56,5 +58,6 @@ I can take your Figma design and turn it into a real website.
 
 - **LinkedIn:** [Fahad Bin Qaiser](https://www.linkedin.com/in/fahaddev/)
 - **Instagram:** [FahadDevX](https://www.instagram.com/fahad_devx/)
+- **Gmail:** (fahadbinqaiser3@gmail.com)
 
 ---
