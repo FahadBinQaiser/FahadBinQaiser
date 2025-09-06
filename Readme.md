@@ -1,4 +1,4 @@
-## Fahad Bin Qaiser - Frontend and Full-stack Developer  
+## Fahad Bin Qaiser - Full-stack Developer  
 Ruby on Rails && React.JS && Tailwind CSS | UI-Expert | Co-Founder of Magneto
 
 ---
