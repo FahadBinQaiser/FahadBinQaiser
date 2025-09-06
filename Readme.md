@@ -6,7 +6,7 @@ Ruby on Rails && React.JS && Tailwind CSS | UI-Expert | Co-Founder of Magneto
 I'm Fahad, a frontend developer for the past 2 years.  
 I began my coding journey on 21 May 2023.
 
-I build Landing pages that help Saas teams convert in 5 seconds.
+I build Landing pages that help Saas teams convert in 5 seconds.  
 Design, development, and copy done for you to bring leads.
 
 My work is deep down in CODE.  
