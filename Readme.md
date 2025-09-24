@@ -54,6 +54,10 @@ I can take your Figma design and turn it into a real website.
 
 ---
 
+---
+![](https://komarev.com/ghpvc/?username=FahadBinQaiser&color=green)
+---
+
 ## Let's work together :)
 
 - **LinkedIn:** [Fahad Bin Qaiser](https://www.linkedin.com/in/fahaddev/)
