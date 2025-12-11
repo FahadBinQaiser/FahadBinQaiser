@@ -1,45 +1,16 @@
-## Fahad Bin Qaiser - Full-stack Developer  
-Ruby on Rails && React.JS && Tailwind CSS | UI-Expert | Co-Founder of Magneto
+## Fahad Bin Qaiser 
+UI-Focused Frontend Developer | React & Ruby on Rails
 
 ---
 
-I'm Fahad, a frontend developer for the past 2 years.  
 I began my coding journey on 21 May 2023.
 
-I build Landing pages that help Saas teams convert in 5 seconds.  
-Design, development, and copy done for you to bring leads.
-
-My work is deep down in CODE.  
-I also have a strong eye for design.
-
-I know design well.  
-I can take your Figma design and turn it into a real website.
+I build interfaces that don't compromise on design.  
+Building full-stack web apps with Ruby on Rails (1 year of experience) 
 
 ---
 
-## How can I help
-
-- **Frontend Development**  
-  React, Next.js, JavaScript, Tailwind CSS, GSAP, Lenis JS
-
-- **Fullstack Development**
-  Ruby on Rails 
-
-- **UI Implementation**  
-  Responsive layouts, Accessibility.
-
-- **Design to Code**  
-  Figma to Code.
-
-- **Optimization**  
-  Performance, semantic HTML, clean folder structure
-
-- **Version Control**  
-  Git and GitHub
-
----
-
-## Tech Stack
+## Tech Stack 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -54,7 +25,7 @@ I can take your Figma design and turn it into a real website.
 
 ---
 
-## Let's work together :)
+## Let's work together
 
 - **LinkedIn:** [Fahad Bin Qaiser](https://www.linkedin.com/in/fahaddev/)
 - **Instagram:** [FahadDevX](https://www.instagram.com/fahad_devx/)
