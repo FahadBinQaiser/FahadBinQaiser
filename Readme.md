@@ -33,6 +33,6 @@ Building full-stack web apps with Ruby on Rails (1 year of experience)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FahadBinQaiser&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FahadBinQaiser)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=FahadBinQaiser&color=green)
